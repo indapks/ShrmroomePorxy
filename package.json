@@ -1,0 +1,20 @@
+{
+  "name": "shem-token-proxy",
+  "version": "1.0.0",
+  "description": "Automatic Token Injection Proxy for Shem App",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'"
+  },
+  "keywords": [
+    "proxy",
+    "token",
+    "api",
+    "shem"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
